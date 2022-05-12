@@ -1,17 +1,28 @@
 body{
-  background-color: orange;
-  color: white;
+  background-color: white ;
+  color: black;
     font-family: Arial, Helvetica, san-serif;
-     margin: 10% 20%;
+     margin: 5% 10%;
+  border: 2px solid black
+  
 }
 .header{
-  background-color: black;
+  background-color: green;
+  text-align: center;
+  border-top:3px solid;
+  
 }
 
 .exp{
-  background-color: black;
+ 
+  background-color: green;
+  border-top:3px solid;
+  text-align:center;
 }
 
+   
 .education{
-  background-color: black;
+  background-color: green;
+  border-top: 3px solid;
+   text-align: center;
 }
